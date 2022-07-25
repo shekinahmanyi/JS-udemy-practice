@@ -1,12 +1,6 @@
 
-//functions
+const scores = [10,30,15,25,50,40,5];
 
-const greet = () => 'hello';
-let resultOne = greet();
-console.log(resultOne);
-
-
-
-//methods
-
-name.toUpperCase();
+scores.filter(() => {
+    return true;
+})
